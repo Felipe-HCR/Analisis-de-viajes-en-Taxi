@@ -1,0 +1,42 @@
+# Archivos de datos del proyecto
+*.csv
+project_sql_result_*.csv
+chicago_weather_2017.html
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entornos virtuales
+venv/
+env/
+.env
+.venv
+
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de configuración
+config.py
+secrets.py
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
